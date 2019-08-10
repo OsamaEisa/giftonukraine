@@ -32,7 +32,7 @@ const Footer = () => {
           </div>
           <div className="col-12">
             <hr className="light-100" />
-            <h5>&copy; <a href="https://github.com/OsamaEisa">Osama Eisa</a></h5>
+            <h5>&copy; <a href="https://github.com/OsamaEisa" target="_blank">Osama Eisa</a></h5>
           </div>
         </div>
       </div>
