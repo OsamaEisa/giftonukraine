@@ -17,7 +17,7 @@ const Slider = () => {
             <div className="carousel-item slider-1 active">
               <Navbar/>
               <div className="carousel-caption">
-                <h1 className="car-h1">session <span>2019 - 2020</span> <br /> is open now!</h1>
+                <h1 className="car-h1">session <span>2020 - 2021</span> <br /> is open now!</h1>
                 <h3>Book Your Seat...</h3>
                 <Link to="/contact"><button type="button" className="btn apply-now btn-lg">APPLY NOW</button></Link>
               </div>
@@ -32,8 +32,8 @@ const Slider = () => {
             <div className="carousel-item slider-4">
             <Navbar/>
             <div className="carousel-caption">
-              <h1 className="car-h3">National Aviation University</h1>
-              <h3>One of The Best Aerospace Engineering in The World</h3>
+              <h1 className="car-h3">Odessa National Maritime University</h1>
+              <h3>One of The Best Maritime Universities in The World</h3>
               <Link to="/contact"><button type="button" className="btn btn-lg find-more">Apply Now</button></Link>
             </div>
           </div>

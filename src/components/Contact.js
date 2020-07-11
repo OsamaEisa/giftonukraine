@@ -23,7 +23,7 @@ const Contact = () => {
           <div className="col-lg-6 col-sm-12 whats-viber padding">
             <h3 className="contact-headers-us">Contact us :</h3>
             <a href="#"><i className="far fa-envelope"></i></a> <span>gifton.ukraine@gmail.com</span> <br/>
-            <a href="#"><i className="fab fa-whatsapp"></i> <i className="fab fa-viber"></i></a> <span>+380 63 73 201 53</span>
+            <a href="#"><i className="fab fa-whatsapp"></i> <i className="fab fa-viber"></i></a> <span>+380 63 72 36 330</span>
           </div>
             <div className="col-lg-6 col-sm-12 fa-ins padding">
               <h3 className="contact-headers-us">Follow us :</h3>

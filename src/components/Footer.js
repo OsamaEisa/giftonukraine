@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="col-md-4">
             <h3>Gifton Ua</h3>
             <hr className="light" />
-            <p><i className="fas fa-phone-alt"></i> +380 63 73 201 53</p>
+            <p><i className="fas fa-phone-alt"></i> +380 63 72 36 330</p>
             <p><i className="far fa-envelope"></i> gifton.ukraine@gmail.com</p>
             <p><i className="fas fa-map-marker-alt"></i> kyiv, Ukraine</p>
           </div>
@@ -32,7 +32,7 @@ const Footer = () => {
           </div>
           <div className="col-12">
             <hr className="light-100" />
-            <h5>&copy; <a href="https://github.com/OsamaEisa">Osama Eisa</a></h5>
+            <h5>&copy; <a href="https://github.com/OsamaEisa" target="_blank">Osama Eisa</a></h5>
           </div>
         </div>
       </div>

@@ -98,9 +98,10 @@ html,body {
     background-image: url('../imgs/Maidan.jpg');
 }
 .slider .slider-4 {
-    background-image: url('../imgs/aviation-deitalfred.jpg');
+    background-image: url('../imgs/maritime.jpeg');
 }
 .slider .carousel-item {
+    margin-top: 20px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -592,10 +593,18 @@ footer a:hover {
 }
 /**************************************************************************************/
 @media (max-width: 576px) {
-    
+
+    .slider .carousel-item {
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+        width: 100%;
+        height: 200px;
+    }
 .carousel-caption {
     position: absolute;
-    /* Center The Caption */    
+    /* Center The Caption */
     top: 61% !important;
 }
 .carousel-caption h1 {        
